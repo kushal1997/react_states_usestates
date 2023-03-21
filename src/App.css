@@ -17,10 +17,11 @@ button{
     padding: 10px;
     margin: 20px 10px;
     font-size: 16px;
-    color: #FFFFFF;
+    color: #940c0c;
     border: 0px;
     border-radius: 5px;
     cursor: pointer;
+    background-color: aqua;
 }
 button.add{
     background-color: #18978F;
